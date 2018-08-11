@@ -5,4 +5,4 @@ function addElementToBeginningOfArray(array, element){
   [...array, element];
   return array;
 }
-addElementToBeginningOfArray("array", 1);
+addElementToBeginningOfArray("myArray", 1);
